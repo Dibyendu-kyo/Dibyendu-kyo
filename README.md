@@ -12,7 +12,7 @@
 
 
 
-- :school: I am a `3rd Year Student` at [Netaji Subhash Engineering College].
+- :school: I am a `Final Year Student` at [Netaji Subhash Engineering College].
   
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
   
